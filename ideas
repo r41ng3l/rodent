@@ -1,0 +1,27 @@
+Una aplicacion de escritorio y movil que haga lo siguiente:
+Abrir un texto en diversos formatos: word, odt, pdf, txt, etc
+Dos modos: modo lupa y modo voz
+Debe contar con una voz de calidad que sea natural y que sea capaz de leer más lento o más rápido.
+Debe poder controlarse con comandos de voz
+Debe reconocer estructuras de textos como frases o párrafos.
+Un ejemplo de su uso sería:
+
+Abres la aplicacion
+"quiero leer 'texto'"
+si hay marcapáginas empezar ahi, si no empezar desde el principio
+Comienza a leer
+"Para"
+"Vuelve a leer la frase anterior"
+"Vuelve a leer la frase anterior más lento"
+"Pasa al modo lupa"
+"aumenta"
+"aumenta"
+"Vuelve al modo voz"
+"Cierra el documento" ---> marcapáginas automático
+"abre el buscador de documentos"
+Seleccionar manualmente el documento
+"lee desde la página anterior"
+"cambia a voz 'X'"
+
+Integrar Talon Voice para comandos de voz
+Investigar voces naturales
